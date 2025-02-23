@@ -37,4 +37,4 @@ Update VendingMachine Class:
 
 </pre>
 UML Diagram:
-![alt text](<state design uml.png>)
+![alt text](<state design uml2.png>)
